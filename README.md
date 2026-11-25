@@ -22,35 +22,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Landing AI (Agentic Document Extraction)](https://landing.ai)**  
-  Visual-first multimodal document AI platform built by Andrew Ng's team, extracting structured JSON and grounded bounding-box citations from complex charts, tables, and diagrams.
-
-- **[Google Cloud Document AI](https://google.com)**  
-  Managed enterprise document understanding platform combining layout parsing, custom entity extraction, invoice/receipt processors, and Gemini multimodal grounding.
-
-- **[AWS Textract](https://amazon.com)**  
-  Cloud machine learning service that automatically extracts printed text, handwriting, key-value forms, and complex tables from scanned documents.
-
-- **[Azure AI Document Intelligence (formerly Form Recognizer)](https://microsoft.com)**  
-  Cloud document analysis service offering layout-to-Markdown conversion, prebuilt financial/ID models, and custom neural extraction templates.
-
-- **[Scale Document AI (Scale AI)](https://scale.com)**  
-  Enterprise generative AI and human-in-the-loop document processing platform engineered for high-accuracy extraction across unstructured enterprise records.
-
-- **[Rossum](https://rossum.ai)**  
-  Cloud-native cognitive Intelligent Document Processing (IDP) platform powered by transactional LLMs for automated invoice, purchase order, and logistics workflows.
-
-- **[Hyperscience](https://hyperscience.com)**  
-  Enterprise hyperautomation and AI document processing platform specializing in messy handwriting recognition and human-in-the-loop quality assurance.
-
-- **[ABBYY Vantage](https://abbyy.com)**  
-  Low-code cloud Intelligent Document Processing suite combining industry-standard FineReader OCR with pre-trained cognitive document skills.
-
-- **[Klippa DocHorizon](https://klippa.com)**  
-  Cloud IDP and OCR API platform offering automated data extraction, document classification, anonymization, and fraud detection.
-
-- **[Veryfi OCR API](https://veryfi.com)**  
-  Real-time, zero-human-in-the-loop multimodal OCR API delivering sub-second structured JSON extraction for receipts, invoices, checks, and W-2s.
+| Platform | Pricing (Starting Tier) | Free Tier / Trial Limits | Description |
+| :--- | :--- | :--- | :--- |
+| **[Landing AI (Agentic Document Extraction)](https://landing.ai)** | Pay-as-you-go: $0.01/credit ($1 for 100 credits); Team plan starts at $250/month | 1,000 free credits on signup (Explore plan, valid for 90 days, no credit card required) | Visual-first multimodal document AI platform built by Andrew Ng's team, extracting structured JSON and grounded bounding-box citations from complex charts, tables, and diagrams. |
+| **[Google Cloud Document AI](https://google.com)** | Pay-as-you-go: Enterprise Document OCR starts at $1.50 per 1,000 pages ($0.0015/page); Form Parser at $30.00 per 1,000 pages ($0.03/page) | 1,000 pages per month free forever for Enterprise Document OCR (plus $300 new GCP customer trial credits) | Managed enterprise document understanding platform combining layout parsing, custom entity extraction, invoice/receipt processors, and Gemini multimodal grounding. |
+| **[AWS Textract](https://amazon.com)** | Pay-as-you-go: Detect Document Text starts at $0.0015/page ($1.50/1k pages); Analyze Expense at $0.01/page; Tables at $0.015/page | 3-month free trial: 1,000 pages/month for Detect Document Text, 100 pages/month for Analyze Document (Tables/Forms) and Analyze Expense | Cloud machine learning service that automatically extracts printed text, handwriting, key-value forms, and complex tables from scanned documents. |
+| **[Azure AI Document Intelligence](https://microsoft.com)** | Pay-as-you-go (S0 tier): Read/OCR starts at $1.50 per 1,000 pages ($0.0015/page); Prebuilt models start at $10.00 per 1,000 pages ($0.01/page) | Free (F0) tier forever: 500 pages per month (first 2 pages per multi-page document, max 1 transaction/second) | Cloud document analysis service offering layout-to-Markdown conversion, prebuilt financial/ID models, and custom neural extraction templates. |
+| **[Scale Document AI (Scale AI)](https://scale.com)** | Self-serve annotation/labeling starts at $0.05 per task/unit; Enterprise Document AI contracts typically start at ~$93,000/year | Free tier for self-labeling engine: 200 free units per month; Enterprise evaluation via sales demo/PoC (no permanent free tier for enterprise IDP) | Enterprise generative AI and human-in-the-loop document processing platform engineered for high-accuracy extraction across unstructured enterprise records. |
+| **[Rossum](https://rossum.ai)** | Starter annual plan starts at $18,000/year ($1,500/month equivalent); scales with page volume commitments | 14-day free trial (full access to Rossum Aurora AI engine, document queues, and validation up to 300 trial documents; no credit card required) | Cloud-native cognitive Intelligent Document Processing (IDP) platform powered by transactional LLMs for automated invoice, purchase order, and logistics workflows. |
+| **[Hyperscience](https://hyperscience.com)** | Custom enterprise annual contracts, typically starting at ~$150,000/year based on document volume and deployment model | Free proof of concept (PoC) / guided demo sandbox for prospective enterprise evaluations (no self-serve free tier or public trial) | Enterprise hyperautomation and AI document processing platform specializing in messy handwriting recognition and human-in-the-loop quality assurance. |
+| **[ABBYY Vantage](https://abbyy.com)** | Metered volume-based licensing: 100k–500k pages/year rates at ~$0.04 to $0.08/page; base platform annual contracts start at ~$15,000 to $30,000/year | Guided evaluation trial tenant (14 to 30 days upon request, restricted volume quota for testing pre-trained cognitive skills; no self-serve free tier) | Low-code cloud Intelligent Document Processing suite combining industry-standard FineReader OCR with pre-trained cognitive document skills. |
+| **[Klippa DocHorizon](https://klippa.com)** | Pay-as-you-go credit wallet model; modular finished products like SpendControl start at €95/month; API volume tiers vary by module | €25 in complimentary trial credits upon developer account creation for testing OCR and extraction APIs (no permanent free tier) | Cloud IDP and OCR API platform offering automated data extraction, document classification, anonymization, and fraud detection. |
+| **[Veryfi OCR API](https://veryfi.com)** | Production Starter plan starts at $500/month minimum spend (~$0.08 per receipt, ~$0.16 per invoice); Growth tiers scale with volume | Free tier forever: 100 documents per month (up to 15 pages per document, full access to 100+ document APIs) + 14-day free trial for higher features | Real-time, zero-human-in-the-loop multimodal OCR API delivering sub-second structured JSON extraction for receipts, invoices, checks, and W-2s. |
 
 
 ## Open-Source GitHub Projects
