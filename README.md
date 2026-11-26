@@ -62,7 +62,7 @@ The table below catalogs enterprise SaaS document intelligence platforms, sorted
 
 ## 💻 Open-Source GitHub Projects
 
-Explore the top open-source document parsing, layout recognition, and vision-language extraction repositories. Entries are strictly sorted in descending order by GitHub Stars_Count:
+Explore the top open-source document parsing, layout recognition, and vision-language extraction repositories. Entries are strictly sorted in descending order by GitHub_Stars_Count:
 
 1. **[Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)** [![Stars](https://img.shields.io/badge/stars-94.4k-white?style=social)](https://github.com/Egonex-AI/Understand-Anything/stargazers)  
    *Turn any complex document, code, or unstructured media into interactive multimodal knowledge graphs and grounded vectors for advanced reasoning.*
